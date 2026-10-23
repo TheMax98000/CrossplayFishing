@@ -10,8 +10,8 @@ or a mouse. On a cross-play server, the player on a phone just gets a fish with 
 CrossplayFishing you follow the fish by turning your head; the bar is plain text in the action bar, so every client
 shows it and there is nothing to break after an update.
 
-> **Status:** version 1.0.0 released: free edition in [Releases](../../releases/latest) (SpigotMC and CurseForge
-> soon), full edition on [Payhip](https://payhip.com/b/K7EvF).
+> **Status:** version 1.0.0 released: free edition on [SpigotMC](https://www.spigotmc.org/resources/crossplayfishing-free.139890/) and in
+> [Releases](../../releases/latest) (CurseForge soon), full edition on [Payhip](https://payhip.com/b/K7EvF).
 
 ## Editions
 
