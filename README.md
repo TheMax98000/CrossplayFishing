@@ -1,3 +1,5 @@
+<img src="docs/logo.png" alt="CrossplayFishing" width="160" align="right">
+
 # CrossplayFishing
 
 Custom fishing for **cross-play servers** (Paper or Folia with Geyser/Floodgate) with a mini-game that **Bedrock
